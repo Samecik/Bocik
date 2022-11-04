@@ -63,6 +63,6 @@ async def on_ready():
   job.start()
   print(f"[{datetime.now()}] Bot is Online")
 
-client.run('MTAzNjAwNTcxMjUxMTM2OTI3Ng.Gm29GJ.Ri_3mROOP-8XLqWuf40CUqmSqlK0xG8hjdbTC8')
+client.run('MTAzNjAwNTcxMjUxMTM2OTI3Ng.GKbzE-.w6QD61Yd1sym-43g_Awd0Zz9qlZUuGkVNx-J3o')
 
 input()
